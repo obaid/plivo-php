@@ -1,5 +1,5 @@
 {
-    "name": "plivo/plivo-php",
+    "name": "plivo/plivophp",
     "description": "Plivo PHP helper library to access PlivoCloud API and generate Plivo XML",
     "authors": [
         {
